@@ -1,11 +1,10 @@
-sysrec/refresh node_modules
-sysrec/public/hot
-sysrec/public/storage
-sysrec/storage/*.key
-sysrec/vendor
-sysrec/.phpunit.result.cache
-sysrec/Homestead.json
-sysrec/Homestead.yaml
-sysrec/npm-debug.log
-sysrec/yarn-error.log
-
+/refresh node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
