@@ -14,10 +14,10 @@ Sistema E-commerce com algoritmo de **recomendação de produtos** desenvolvido 
 
 ### Telas: 
 -Lista Produtos
-![alt text] (https://github.com/eliasfelipedasilva/sysrec/blob/master/images/TelaProduto.png)
+![alt text](https://github.com/eliasfelipedasilva/sysrec/blob/master/images/TelaProduto.png)
 
 -Filtros
-![alt text] (https://github.com/eliasfelipedasilva/sysrec/blob/master/images/ListaProduto.png)
+![alt text](https://github.com/eliasfelipedasilva/sysrec/blob/master/images/ListaProduto.png)
 
 
 -Detalhe Produto
